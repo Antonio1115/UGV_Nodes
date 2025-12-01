@@ -32,7 +32,7 @@ python3 examples/test_logger.py
 python3 examples/test_mission_manager.py
 ```
 
-### ✔ Clean repo layout
+### Clean repo layout
 
 The repository uses simple Python packages instead of ROS2 packages, since ROS2 installation on this machine is currently failing.
 
