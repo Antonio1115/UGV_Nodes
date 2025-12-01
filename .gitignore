@@ -11,6 +11,9 @@ install/
 log/
 *.egg-info/
 
+# Application logs
+logs/
+
 # OS
 .DS_Store
 Thumbs.db
