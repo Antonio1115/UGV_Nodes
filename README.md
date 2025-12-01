@@ -4,7 +4,7 @@ This repository contains the first versions of the SMU Drone Club’s UGV nodes.
 
 ---
 
-## 🚧 **Current Status**
+## **Current Status**
 
 ### Python modules
 
@@ -23,7 +23,7 @@ You currently have two working modules:
   * Outputs the current mission state
   * Runs in standalone mode for now
 
-### ✔ `examples/` folder
+### `examples/` folder
 
 You have example scripts that let you test the modules with:
 
@@ -38,7 +38,7 @@ The repository uses simple Python packages instead of ROS2 packages, since ROS2 
 
 ---
 
-## 📁 **Repository Structure**
+## **Repository Structure**
 
 ```
 ugv_nodes/
@@ -58,7 +58,7 @@ ugv_nodes/
 
 ---
 
-## 🎯 **Next Steps**
+## **Next Steps**
 
 * Add challenge-specific logic for Mission Manager
 * Integrate UGVLogger with Mission Manager (log mission state transitions)
